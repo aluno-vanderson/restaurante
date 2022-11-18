@@ -1,6 +1,13 @@
 Páginas:
--inicial
--sobre
--reservas
--cardápio
--avaliações
+- inicial
+- sobre
+- reservas
+- cardápio
+- avaliações
+
+Tecnologias:
+- HTML
+- CSS
+- JavaScript
+- React
+- Figma
